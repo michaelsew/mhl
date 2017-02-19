@@ -1,4 +1,12 @@
 # mhl
 MHL test league code
 
-# test update 2016-11-22
+# Changelog
+
+## test update 2016-11-22
+- update 1
+- update 2
+  hi.
+  
+## test update 2017-02-18
+- update 1
