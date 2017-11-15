@@ -1,5 +1,6 @@
 # mhl
-MHL test league code
+MHL test league code.
+MHL == Michael Hockey League, imaginary hockey league with multiple tiers.  Hoping to be db-agnostic so I can test with multiple DB engines, but for now may leave this as oracle data structures.
 
 # Changelog
 
